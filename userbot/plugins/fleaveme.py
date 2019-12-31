@@ -3,7 +3,7 @@
 
 Available Commands:
 
-.fleave"""
+.leave"""
 
 from telethon import events
 
