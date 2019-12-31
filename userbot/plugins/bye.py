@@ -36,4 +36,4 @@ async def leave(e):
 
         else:
 
-            await e.edit('`Error Founded due to small device`')
+            await e.edit('`Bye`')
