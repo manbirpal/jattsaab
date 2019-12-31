@@ -1,5 +1,5 @@
 # WELCOME TO THE CULT
-# Telegram channel- @XtraTgBot
+# Telegram channel- @zero18hackers
 # FORK AT YOUR OWN RISK
 # Installing
 
