@@ -1,3 +1,4 @@
+''' .autopic '''
 import os
 from datetime import datetime
 from PIL import Image, ImageDraw, ImageFont
