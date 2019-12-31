@@ -27,7 +27,7 @@ async def _(event):
 
     input_str = event.pattern_match.group(1)
 
-    if input_str == "fleave":
+    if input_str == "leave":
 
         await event.edit(input_str)
 
