@@ -1,4 +1,4 @@
-"""COMMAND : .nu"""
+"""COMMAND : .paytm"""
 
 from telethon import events
 
@@ -23,7 +23,7 @@ async def _(event):
 
     input_str = event.pattern_match.group(1)
 
-    if input_str == "nu":
+    if input_str == "paytm":
 
         await event.edit(input_str)
 
