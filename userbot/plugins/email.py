@@ -1,4 +1,4 @@
-"""COMMAND : .paypal"""
+"""COMMAND : .email"""
 
 from telethon import events
 
@@ -23,14 +23,14 @@ async def _(event):
 
     input_str = event.pattern_match.group(1)
 
-    if input_str == "paypal":
+    if input_str == "email":
 
         await event.edit(input_str)
 
         animation_chars = [
 
                 
-            "PAYPAL EMAIL IS appstomic.@gmail.com OR singhmanbirpal@gmail.com",
+            "EMAIL IS appstomic.@gmail.com OR singhmanbirpal@gmail.com",
         ]
 
         for i in animation_ttl:
